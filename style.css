@@ -12,7 +12,10 @@
 }
 #img1 img{
     margin: 2rem;
+    height: 10rem;
+    width: 14rem;
+
 }
 #img1 h4{
-    margin-top: 3rem;
+    width: 18rem;
 }
