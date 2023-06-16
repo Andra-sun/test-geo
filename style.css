@@ -18,3 +18,17 @@
 #img1 h4{
     margin-left: 1rem;
 }
+
+#img2{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+#img2 img{
+    height: 10rem;
+    width: 14rem;
+
+}
+#img2 h4{
+    margin-left: 1rem;
+}
